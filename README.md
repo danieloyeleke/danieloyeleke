@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danieloyeleke
-- 👀 I’m interested in web development full stack
+- 👀 I’m into web development (full stack) php,css,jquery,mysql and html
 - 🌱 I’m currently learning react.js/node.js
-- 💞️ I’m looking to collaborate with any experienced hand out there..
+- 💞️ I’m looking to work with any experienced hand out there..
 - 📫 How to reach me daniel.oyeleke@gmail.com
 
 <!---
